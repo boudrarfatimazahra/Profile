@@ -1,7 +1,7 @@
 
 const Address=()=> {
     return (
-      <div>Address</div>
+      <div></div>
     )
 }
 
